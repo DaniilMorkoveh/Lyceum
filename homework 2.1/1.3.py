@@ -25,5 +25,6 @@ def squared():
                 continue
             else:
                 continue
+#Довольно громоздко, но, в целом, верно
 
 squared()
