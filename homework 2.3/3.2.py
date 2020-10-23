@@ -1,0 +1,1 @@
+print(sum(map(lambda y: y ** 2, filter(lambda x: not x % 9, [10 + d for d in range(0, 90)]))))
